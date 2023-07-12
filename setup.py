@@ -56,6 +56,6 @@ setuptools.setup(
         'bokeh>=2.4.3, <3.0.0',
         'jinja2',
         'pandas',
-        'matplotlib~=3.2.2',
+        'matplotlib==3.7.1',
     ],
 )
